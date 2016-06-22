@@ -1,19 +1,36 @@
-* {
+/* {
    outline: 1px solid red !important;
-}
+}*/
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
+.title{
+    font-family: Lucida Sans Unicode, sans-serif;
+    font-style: normal;
+    background-color: #33BEBE;
+    color: white;
+    font-size: xx-large;
+    box-sizing:
+}
 
 .description {
-    max-width: 705px
+    max-width: 705px;
+    margin-left: 40px;
+    text-align: justify;
+    font-family: Trebuchet MS, sans-serif;
+    font-style: normal;
+    color:#7C8B88;
+    font-size: large;
 }
 
 .screenshot {
-    max-width: 460px
+    max-width: 460px;
+
+
+
 }
 
 .app {
